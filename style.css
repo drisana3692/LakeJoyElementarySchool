@@ -1,0 +1,109 @@
+body {
+    background: linear-gradient( #afccfa, #7fbef5, #326da8, #033969);
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+marquee {
+    background-color: silver;
+    color: darkblue;
+}
+#video {
+    height: 90%;
+    width: 100%
+}
+h2 {
+    color: greenyellow;
+    text-align: center;
+    font-family: cursive;
+}
+
+.float1 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid #9cdbb4;
+}  
+.float2 {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    border: 2px solid #9cdbb4;
+} 
+h3 {
+    color: lawngreen;
+}
+h4 {
+    color: lightgreen;
+}
+h5 {
+    color: tomato
+}
+.float3 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid #cf3b2d;
+}  
+.float4 {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    border: 2px solid #ffbe63;
+}
+.CampusDivClass img {
+    height: 300px;
+    width: 300px;
+}
+.float5 {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    border: 2px solid #e2ff63;
+}
+.float6 {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    border: 2px solid #105c17;
+}
+p {
+    font-family: serif;
+    color: #5a2b80;
+    font-weight: 900;
+}
+#img1 {
+    width: 100%;
+    height: 700px;
+}
+.free {
+    text-align: center;
+}
+#star1 {
+    height: 145px;
+    padding-top: 1px;
+}
+#star2 {
+    padding-top: 1px;
+    height: 147px;
+    width: 990px;
+}
+#star3 {
+    padding-top: 1px;
+    width: 990px;
+    height: 149px;
+}
+#star3edit {
+    width: 570px;
+}
+#footer {
+    height: 20px;
+    background-color: white;
+}
+    #logo{ 
+    	position:fixed; 
+    	top:0; 
+    	left:0;
+    } 
